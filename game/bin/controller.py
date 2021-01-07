@@ -10,7 +10,7 @@ from bin import highscore
 import json 
 
 class Controller:
-    def __init__(self,width=720,height=320):
+    def __init__(self,width=1920,height=1080):
         """controller that sets up all the sprite groups and screens
         args parameters of screen size 
         return all instance variables needed sets up platform and enemy positions sets the game state"""
