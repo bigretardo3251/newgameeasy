@@ -1,0 +1,2 @@
+to play the game go to python then write cd game, python3 main.py 
+to fix anything you want go to bin/controller.py with cd bin gedit controller.py & and then change around values
